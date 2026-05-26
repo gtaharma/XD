@@ -1,0 +1,8 @@
+{
+  "name": "SajiloTrade",
+  "description": "Premium gaming marketplace platform with full anti-scam escrow protection, real-time chats, voice notes, calls, interactive sub models, wall system and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
